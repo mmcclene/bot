@@ -1,4 +1,4 @@
-/* Sweep
+/* 
 
 Dec 1 2017
 
@@ -54,8 +54,7 @@ void loop() {
       }
       Serial.println(sd.toInt());
       if(sd.toInt() != 0) {
-        setgrip(sd.toInt());
-      
+        setgrip(sd.toInt());      
       }
       delay(del);
     }
