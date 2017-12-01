@@ -1,7 +1,6 @@
 /* Sweep
 
- modified 1 Dec 2017
- by Eamonn Shirey
+Dec 1 2017
 
  Code designed for use with the Standard Gripper Kit B with an HS-422 Actuator.
  Take care to adjust the open/close settings for each setup
